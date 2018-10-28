@@ -2,7 +2,7 @@
 
 ## 2015
 
-知识蒸馏的概念首次于2015年提出： Distilling the Knowledge in a neural network文章，其动机是因为用复杂的模型来做预测太消耗计算资源，导致模型难以部署，因此作者的团队发现把一个复杂模型的知识压缩到一个简单模型是可行的，并在mnist和语音识别数据集上做了测试，证明了其可行性。并定义了知识，和超参数-蒸馏温度T，提出蒸馏公式![./Images/gongshi.png]
+知识蒸馏的概念首次于2015年提出： Distilling the Knowledge in a neural network文章，其动机是因为用复杂的模型来做预测太消耗计算资源，导致模型难以部署，因此作者的团队发现把一个复杂模型的知识压缩到一个简单模型是可行的，并在mnist和语音识别数据集上做了测试，证明了其可行性。并定义了知识，和超参数-蒸馏温度T，提出蒸馏公式![https://github.com/Zxl19990529/Knowledge_Distrillation/blob/master/Images/gongshi.png]
 
 ## 2016
 
